@@ -91,7 +91,7 @@ export default observer(function ActivityForm() {
 					name="category"
 				></Form.Input>
 				<Form.Input
-					type="datetime"
+					type="date"
 					placeholder="Time"
 					value={activity.time}
 					onChange={handleInputChange}
