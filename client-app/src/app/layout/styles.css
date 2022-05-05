@@ -2,6 +2,10 @@ body {
 	background-color: #eaeaea !important;
 }
 
+.ui.modal {
+	top: 35%;
+}
+
 .ui.inverted.top.fixed.menu {
 	background-image: linear-gradient(
 		135deg,
